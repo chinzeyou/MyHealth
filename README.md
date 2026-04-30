@@ -30,8 +30,6 @@ Built with inclusivity in mind:
 
 ## 📱 App Preview
 
-> *(Replace these with your actual images inside an `/assets` folder)*
-
 <table align="center">
   <tr>
     <td align="center">
