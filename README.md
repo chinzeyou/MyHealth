@@ -60,7 +60,6 @@ Built with inclusivity in mind:
       <img src="assets/settings.jpeg" width="200"/><br/>
       <b>Settings</b>
     </td>
-    <td></td>
   </tr>
 </table>
 ---
