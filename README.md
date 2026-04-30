@@ -32,12 +32,21 @@ Built with inclusivity in mind:
 
 > *(Replace these with your actual images inside an `/assets` folder)*
 
-![Home Screen](assets/home.jpeg)  
-![Appointment Booking](assets/book.jpeg)  
-![Video Consultation](assets/video.png)  
-![Medical Records](assets/medical_records.jpeg)  
-![Emergency Profile](assets/emergency_profile.jpeg)  
+<p align="center">
+  <img src="assets/home.png" width="200"/>
+  <b>Home Screen</b>
+  <img src="assets/book.jpeg" width="200"/>
+  <b>Book an Appointment</b>
+  <img src="assets/video_consult.jpeg" width="200"/>
+  <b>Video Consultation</b>
+</p>
 
+<p align="center">
+  <img src="assets/medical_records.jpeg" width="200"/>
+  <b>Medical Records</b>
+  <img src="assets/emergency_profile_jpeg" width="200"/>
+  <b>Emergency_Profile/b>
+</p>
 ---
 
 ## 🚀 Core Features
