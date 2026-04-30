@@ -56,6 +56,10 @@ Built with inclusivity in mind:
       <img src="assets/emergency_profile.jpeg" width="200"/><br/>
       <b>Emergency Profile</b>
     </td>
+    <td align="center">
+      <img src="assets/settings.jpeg" width="200"/><br/>
+      <b>Settings</b>
+    </td>
     <td></td>
   </tr>
 </table>
