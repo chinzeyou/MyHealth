@@ -108,3 +108,8 @@ MyHealth improves healthcare systems by:
 - 📊 Supporting smarter hospital operations  
 
 ---
+
+## ⚠️ Disclaimer
+
+This project is a **prototype UI design** created for demonstration purposes.  
+It does not represent a fully functional production system and may not include backend integration or real-time data handling.
