@@ -33,7 +33,7 @@ Built with inclusivity in mind:
 > *(Replace these with your actual images inside an `/assets` folder)*
 
 <p align="center">
-  <img src="assets/home.png" width="200"/>
+  <img src="assets/home.jpeg" width="200"/>
   <b>Home Screen</b>
   <img src="assets/book.jpeg" width="200"/>
   <b>Book an Appointment</b>
@@ -42,9 +42,9 @@ Built with inclusivity in mind:
 </p>
 
 <p align="center">
-  <img src="assets/medical_records.jpeg" width="200"/>
+  <img src="assets/medical_record.jpeg" width="200"/>
   <b>Medical Records</b>
-  <img src="assets/emergency_profile_jpeg" width="200"/>
+  <img src="assets/emergency_profile.jpeg" width="200"/>
   <b>Emergency_Profile/b>
 </p>
 ---
