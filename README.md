@@ -60,7 +60,6 @@ Built with inclusivity in mind:
     </td>
   </tr>
 </table>
----
 
 ## 🚀 Core Features
 
