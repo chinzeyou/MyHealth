@@ -32,21 +32,33 @@ Built with inclusivity in mind:
 
 > *(Replace these with your actual images inside an `/assets` folder)*
 
-<p align="center">
-  <img src="assets/home.jpeg" width="200"/>
-  <b>Home Screen</b>
-  <img src="assets/book.jpeg" width="200"/>
-  <b>Book an Appointment</b>
-  <img src="assets/video_consult.jpeg" width="200"/>
-  <b>Video Consultation</b>
-</p>
-
-<p align="center">
-  <img src="assets/medical_record.jpeg" width="200"/>
-  <b>Medical Records</b>
-  <img src="assets/emergency_profile.jpeg" width="200"/>
-  <b>Emergency_Profile/b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/home.jpeg" width="200"/><br/>
+      <b>Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="assets/book.jpeg" width="200"/><br/>
+      <b>Book an Appointment</b>
+    </td>
+    <td align="center">
+      <img src="assets/video_consult.jpeg" width="200"/><br/>
+      <b>Video Consultation</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/medical_record.jpeg" width="200"/><br/>
+      <b>Medical Records</b>
+    </td>
+    <td align="center">
+      <img src="assets/emergency_profile.jpeg" width="200"/><br/>
+      <b>Emergency Profile</b>
+    </td>
+    <td></td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Core Features
